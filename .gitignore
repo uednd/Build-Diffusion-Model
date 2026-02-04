@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 data/datasets/FashionMNIST/
 data/datasets/MNIST/
+.DS_Store
