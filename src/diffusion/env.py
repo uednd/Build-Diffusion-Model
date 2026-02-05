@@ -8,6 +8,8 @@ DEFAULT_REQUIRED_PACKAGES: Sequence[Tuple[str, str]] = (
     ("torchvision", "TorchVision"),
     ("diffusers", "Diffusers"),
     ("matplotlib", "Matplotlib"),
+    ("PIL", "Pillow"),
+    ("huggingface_hub", "Hugging Face Hub"),
 )
 
 
